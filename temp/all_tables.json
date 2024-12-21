@@ -1,0 +1,98 @@
+[
+    {
+        "page": 1,
+        "table_index": 1,
+        "data": [
+            {
+                "data": [
+                    "CMA CGM (AMERICA) LLC\nONE CMA CGM WAY\nNORFOLK--VA--23502\nUNITED STATES\nTEL:+1 757 961 2100 FAX:+1 757 961 2151\nVAT NO. 223522528",
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "data": [
+                    "Please use invoice number as reference with payment\nBill of Lading: CHN1799106 Booking Ref: CHN1799106\nCustomer: 0005694584/001\nYour Ref: -",
+                    null,
+                    "INVOICE ORIGINAL\nNAIC0293419\nDate: 19-DEC-2024",
+                    null
+                ]
+            },
+            {
+                "data": [
+                    "Invoice To: CASTLEGATE LOGISTICS INC\n4 COPLEY PLACE FLOOR 7\nBOSTON--MA--02116\nUNITED STATES",
+                    null,
+                    "Payable to: CMA CGM (AMERICA) LLC\nONE CMA CGM WAY\nNORFOLK--VA--23502\nUNITED STATES\nTEL:+1 757 961 2100 FAX:+1 757 961 2151\nVAT NO.: 223522528\nPlease contact Customer Service for further information\nInvoiced By: Yash GAIKWAD Tel:",
+                    null
+                ]
+            },
+            {
+                "data": [
+                    "",
+                    "Voyage: 0TIJIW1MA Local Voyage Ref: - Vessel: OOCL BAUHINIA Call Date: 28 DEC 2024",
+                    null,
+                    null
+                ]
+            },
+            {
+                "data": [
+                    "Place of Receipt: - Discharge Port: LONG BEACH, CA\nLoad Port: SHANGHAI Place of Delivery: -\nShipper:MAERSK LOGISTICS & SERVICES CHINA Notify:CASTLEGATE LOGISTICS INC.\nDISTRICT,SHANGHAI,CHINA OCEANIMPORT@CASTLEGATELOGISTICS.COM\nConsignee:CASTLEGATE LOGISTICS INC Notify 2:\nCommodity Code Description Package Qty\n392490 Household articles and toilet articles, of plastics (exc 40HC 1\nContainer Number(s): SEKU5505283\nQuote Reference: - Service Contract: 23-4892 Rate Application Date: 09-DEC-2024\nSize/Type Charge Description Based on Rate Currency Amount Amount in USD",
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "data": [
+                    null,
+                    null,
+                    null,
+                    "Amount in USD"
+                ]
+            },
+            {
+                "data": [
+                    "40HC C BASIC FREIGHT 1UNI 1,600.00USD 1,600.00\n40HC C Container maintenance charge at destination 2TEU 20.00USD 40.00\n40HC C Export Declaration Surcharge 1FIX 32.00USD 32.00\n40HC C Ocean Carrier-Intl Ship & port Facility 1UNI 14.00USD 14.00\nSecurity\n40HC C Peak Season Adjustment Factor 1UNI 1,500.00USD 1,500.00",
+                    null,
+                    null,
+                    "1,600.00\n40.00\n32.00\n14.00\n1,500.00"
+                ]
+            },
+            {
+                "data": [
+                    "Currency Charge Totals",
+                    null,
+                    null,
+                    ""
+                ]
+            },
+            {
+                "data": [
+                    null,
+                    null,
+                    null,
+                    "3,186.00"
+                ]
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "table_index": 2,
+        "data": [
+            {
+                "data": [
+                    "(C)For and on behalf of CMA - CGM\nBOULEVARD JACQUES SAADE\n4 QUAI D'ARENC\nCEDEX 02\n13235 MARSEILLE-FRANCE\nFR72562024422 Carrier No. NACMA7520027",
+                    "Total Amount: 3,186.00 USD\nPayable by 18-JAN-2025\nPLEASE SEE ANY SPECIAL PAYMENT NOTES AT THE BOTTOM OF THIS PAGE\nPayment shall be made for full amount on or prior to due date, free of charges, without\nany deduction nor discount for advance payment. All bank charges are for the account\nof the payer-remitter. Checks will no longer be accepted after June 30,2023."
+                ]
+            },
+            {
+                "data": [
+                    "For wire transfers: ABA#021001088 ACH#022000020\nBeneficiary: CMA CGM & ANL Securities BV\nHSBC BANK USA NA\n452 FIFTH AVE\nNEW YORK\n10018 UNITED STATES NY\nAccount Number.000279331 SWIFT:MRMDUS33",
+                    null
+                ]
+            }
+        ]
+    }
+]
